@@ -1,0 +1,13 @@
+----------start----------
+upscale_factor :    2
+num_epochs :    100
+lr_data_train :    ../data/0615data/train/low
+hr_data_train :    ../data/0615data/train/high
+lr_data_val :    ../data/0615data/val/low
+hr_data_val :    ../data/0615data/val/high
+lr_G :    0.0001
+batch_size :    4
+out_path :    ../result/SRF_2
+gpu_id :    0
+perception_index :    0.06
+----------end----------
