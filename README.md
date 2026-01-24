@@ -11,7 +11,7 @@ dataset: https://drive.google.com/file/d/19gPVpDLa3USGj8g6TYZG5IoA3dJ_4MmO/view?
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/Seismic-MambaSR.git
+git clone https://github.com/yws2017/Seismic-MambaSR.git
 cd Seismic-MambaSR
 ```
 
