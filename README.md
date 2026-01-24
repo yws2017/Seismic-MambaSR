@@ -40,8 +40,8 @@ Organize it under `../data` as follows:
 ```
 data/
 ├── train/
-│   ├── high/   # High-resolution seismic profiles
-│   └── low/    # Low-resolution counterparts
+│   ├── high/   # High-resolution seismic images
+│   └── low/    # Low-resolution images
 ├── val/
 │   ├── high/
 │   └── low/
