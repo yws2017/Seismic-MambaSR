@@ -21,7 +21,7 @@ cd Seismic-MambaSR
 
 ```bash
 conda create -n mamba python=3.9 -y
-conda activate mamba
+conda/source activate mamba
 ```
 
 3. Install dependencies:
