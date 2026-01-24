@@ -70,6 +70,7 @@ The script will automatically load training and validation data from `../data/tr
 Run the testing script to evaluate the trained model:
 
 ```bash
+cd code
 python test.py
 ```
 
